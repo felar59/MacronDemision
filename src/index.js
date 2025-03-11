@@ -7,7 +7,6 @@ import {
   RouterProvider,
   Navigate,
 } from "react-router-dom";
-import { Contact, Apropos, Temoignages, Services, Main } from "./pages";
 
 const router = createBrowserRouter([
   {
