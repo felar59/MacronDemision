@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+@layer components {
+  body,
+  html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  .BdrlBeigeGreen {
+    background-image: url("../components/imageSvg/BdrlBeigeGreen.svg");
+    background-repeat: repeat-x;
+    background-size: contain;
+  }
+
+  .BdrlRoseGreen {
+    background-image: url("../components/imageSvg/BdrlRoseGreen.svg");
+    background-repeat: repeat-x;
+    background-size: contain;
+  }
+
+  br {
+    @apply select-none;
+  }
+
+  img {
+    @apply select-none pointer-events-none;
+  }
+
+  .NavButton {
+    @apply text-2xl
+    p-2 select-none;
+  }
+
+  .font-cat {
+    font-family: "Neucha", cursive;
+  }
+
+  .NavButton2 {
+    @apply NavButton my-2
+    p-2 ml-2 select-none;
+  }
+  .NavButtonSelect {
+    @apply underline underline-offset-8;
+  }
+  .NavButtton2Select {
+    @apply text-white text-start w-[98%] 
+    bg-VertDoux rounded-xl;
+  }
+}

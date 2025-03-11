@@ -1,0 +1,94 @@
+Pour un site de petsitter à Arras, voici une suggestion de structure pour un template attractif et fonctionnel :
+
+1. Accueil
+Image principale : Une photo accueillante d'animaux de compagnie heureux (chiens, chats, petits animaux) dans un environnement chaleureux.
+Titre principal : "Services de Petsitting à Arras – Des soins comme à la maison pour vos compagnons"
+Accroche : "Votre petsitter de confiance à Arras pour s’occuper de vos animaux avec amour et attention."
+Boutons d’action : "Réserver une visite" | "Découvrir les services"
+
+2. À propos
+Description : Présentation de la petsitter, son expérience, son amour des animaux, et son approche personnalisée.
+Photo de la petsitter avec des animaux de compagnie pour un côté plus humain et personnel.
+Zone géographique : Spécifier Arras et les alentours pour que les visiteurs locaux se sentent concernés.
+
+3. Services
+Soins pour chiens : Balades, visites à domicile, gardes prolongées.
+Soins pour chats : Visites, alimentation, nettoyage, jeux.
+Petits animaux : Soins pour lapins, hamsters, oiseaux, etc.
+Tarifs indicatifs et options de réservation pour chaque type de service.
+
+4. Avis des Clients
+Section dédiée aux avis clients avec photos (si autorisées) pour montrer des témoignages d'animaux heureux et de clients satisfaits.
+
+5. Portfolio / Galerie
+Photos d’animaux en train de jouer, de se reposer ou de se promener (avec accord des propriétaires).
+
+6. Contact
+Formulaire de contact pour envoyer des demandes de réservation ou des questions.
+Numéro de téléphone et email visibles en haut et en bas de chaque page.
+Liens vers les réseaux sociaux comme Instagram ou Facebook, si elle y partage des photos de ses services.
+
+7. FAQ
+Répondre aux questions les plus courantes, comme "Comment réserver ?", "Que dois-je fournir ?", "Quels animaux gardez-vous ?", etc.
+Style visuel
+Couleurs : Douces et naturelles (tons pastel, verts ou bleus).
+Typographie : Simple et lisible, avec une écriture manuscrite ou cursive pour les titres, afin de donner un côté chaleureux et amical.
+Icônes : Utiliser des icônes d'animaux pour guider le visiteur dans la navigation (chiens, chats, etc.).
+Ce template peut être adapté sur des plateformes comme WordPress avec un thème léger et intuitif, ou sur un constructeur de sites comme Wix pour une mise en place rapide.
+
+
+
+Pour un site de petsitting à Arras, l'ambiance pourrait être accueillante, douce, et refléter la passion pour les animaux, tout en mettant en avant la connexion locale avec Arras. Voici une proposition de direction artistique (DA) :
+
+1. Palette de couleurs
+Couleurs naturelles : Utilisez des teintes inspirées par la nature (vert doux, brun terre, beige sable) pour créer un effet apaisant et en lien avec les animaux.
+Accent de couleur : Un bleu doux rappelant les paysages d'Arras et ses ciels pour un effet de proximité locale.
+Neutres apaisants : Gris clair ou crème pour le fond des pages et éléments de texte, gardant le site aéré et lisible.
+
+Vert pastel
+Hex : #A8D5BA
+RGB : 168, 213, 186
+Rose pastel
+Hex : #F7C8E0
+RGB : 247, 200, 224
+Marron pastel
+Hex : #D8BFAA
+RGB : 216, 191, 170
+
+
+
+
+2. Typographie
+Titres : Une police avec du caractère, un peu manuscrite ou script (ex : Pacifico, Lobster) pour ajouter un côté chaleureux.
+Texte courant : Une police sans-serif propre et lisible (ex : Open Sans ou Roboto) qui garde la lecture agréable.
+
+
+3. Iconographie et illustrations
+Icônes d'animaux : Des petites icônes pour chaque type d’animal gardé (chien, chat, rongeur) peuvent illustrer les services spécifiques.
+Illustrations douces : Des dessins simples en tons pastels d'animaux (même si photos sont utilisées ailleurs) pour ajouter une touche ludique et accueillante.
+
+4. Images
+Photos chaleureuses : Mettez en avant des photos de la petsitter interagissant avec les animaux dans des espaces verts locaux pour un lien avec Arras.
+Portfolio client : Une galerie photo des animaux pris en charge (si leurs propriétaires l'autorisent) pour montrer l’expérience et la confiance des clients.
+
+5. Mise en page
+Accueil immersif : Une grande bannière en haut avec une photo d'un animal dans un cadre naturel ou urbain d'Arras. Le slogan peut y figurer en ajoutant une touche personnelle.
+Sections claires : Services (balades, visites à domicile, pension, etc.), Témoignages, Galerie, Localisation, et Tarifs, avec un design à carte pour chaque section.
+Appels à l'action : Boutons avec texte engageant et amical (« Réservez une balade ! » ou « Découvrir mes services ») pour inviter les visiteurs à en savoir plus.
+
+6. Tonalité et style d'écriture
+Langage amical et accessible : Utilisez un ton chaleureux, rassurant, en tutoyant ou vouvoyant selon la cible (ex. « Votre compagnon mérite le meilleur soin, même quand vous n'êtes pas là ! »).
+Proximité locale : Inclure des références à Arras, par exemple, « Balades au Parc de la Citadelle » ou « Soin attentionné dans toute la région d’Arras ».
+Ce style donnerait au site un aspect professionnel, tout en restant personnel et chaleureux, renforçant ainsi la confiance des propriétaires d'animaux d’Arras.
+
+
+https://4pattession.wixsite.com/4pattession
+https://alexandra-carton.fr/
+https://paws-up.fr/
+https://fr.pinterest.com/pin/65161525854094586/
+
+
+hebergement:
+
+o2switch
+ovh
